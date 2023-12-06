@@ -10,11 +10,19 @@ Dataset: [Advertising Dataset] (https://www.kaggle.com/datasets/tawfikelmetwally
 #Tasks:
 
 → Import at least 3 models
+
 → Load the Iris dataset.
+
 → Preprocess the dataset
+
 → Split the dataset into training and testing sets.
+
 → Apply model selection
+
 → Implement the best model based on run_time, rmse, and rmse_cv
+
 → Perform hyperparameter tuning using Grid Search Cross-Validation or Randomized Grid Search Cross-Validation.
+
 → Train and Test the model using the optimum parameters
+
 → Show the RMSE and plot the performance of the model
