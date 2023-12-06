@@ -7,7 +7,7 @@ Objective: Predict sales based on advertising spending in different media channe
 Dataset: [Advertising Dataset] (https://www.kaggle.com/datasets/tawfikelmetwally/advertising-dataset/)
 
 
-#Tasks:
+Tasks:
 
 → Import at least 3 models
 
