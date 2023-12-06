@@ -2,14 +2,18 @@
 
 Coding Exercise: Model Selection and Hyperparameter Tuning
 
-Objective: Classify Iris flowers into three species using various classification algorithms. Perform model selection and hyperparameter tuning to optimize the model's performance.
+Objective: Predict sales based on advertising spending in different media channels using various regression algorithms. Perform model selection and hyperparameter tuning to optimize the model's performance.
 
-Dataset: Iris Dataset (https://www.kaggle.com/datasets/uciml/iris)
+Dataset: [Advertising Dataset] (https://www.kaggle.com/datasets/tawfikelmetwally/advertising-dataset/)
+
 Tasks:
 
-Load the Iris dataset.
-Split the dataset into training and testing sets.
-Implement a basic classification model (e.g., Decision Tree).
-Perform hyperparameter tuning using Grid Search Cross-Validation.
-Compare the performance of different models.
-Evaluate the final model on the test set.
+→ Import at least 3 models
+→ Load the Iris dataset.
+→ Preprocess the dataset
+→ Split the dataset into training and testing sets.
+→ Apply model selection
+→ Implement the best model based on run_time, rmse, and rmse_cv
+→ Perform hyperparameter tuning using Grid Search Cross-Validation or Randomized Grid Search Cross-Validation.
+→ Train and Test the model using the optimum parameters
+→ Show the RMSE and plot the performance of the model
