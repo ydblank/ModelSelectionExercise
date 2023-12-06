@@ -4,8 +4,7 @@ Coding Exercise: Model Selection and Hyperparameter Tuning
 
 Objective: Classify Iris flowers into three species using various classification algorithms. Perform model selection and hyperparameter tuning to optimize the model's performance.
 
-Dataset: Iris Dataset
-
+Dataset: Iris Dataset (https://www.kaggle.com/datasets/uciml/iris)
 Tasks:
 
 Load the Iris dataset.
