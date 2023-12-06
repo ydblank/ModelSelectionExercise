@@ -26,3 +26,5 @@ Tasks:
 → Train and Test the model using the optimum parameters
 
 → Show the RMSE and plot the performance of the model
+
+*You can use the demo .ipynb found in the repo as a reference for your answer.*
